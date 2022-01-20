@@ -6,6 +6,7 @@
   3.  此页面使用Markdown编写，并由Github仓库存储代码与内容
   4.  此页面仅提供答案的链接，答案全部存储于蓝奏云网盘上，您需要下载他们才可查看。不支持在线预览。
 
+2020级寒假作业速通计划
 ### 查看[【语文】](https://www.baidu.com/)学科相关
 ### 查看[【数学】](https://www.baidu.com/)学科相关
 ### 查看[【英语】](https://www.baidu.com/)学科相关
@@ -17,9 +18,10 @@
 ### 查看[【生物】](https://www.baidu.com/)学科相关(暂无)
 如果这里没有您的学科答案，请联系网站所有者及时添加。
 
-友情工具链接：
+常用工具合集：
 1. [万能度娘](https://www.baidu.com/)<-点击访问
 2. [谷歌生艹机(翻译器)](https://translate.google.cn/)<-点击访问
 3. [QQ音乐解析(不太稳定但能用)](https://music.sonimei.cn/)<-点击访问
 4. [在线函数及三维/立体空间几何绘图](https://www.geogebra.org/)<-点击访问
 5. [小破站](https://www.bilibili.com/)<-点击访问
+Copyright EnderHAXTD 2021-2022, Powered by Github, Engined by Markdown.All rights reserved.
