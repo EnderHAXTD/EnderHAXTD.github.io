@@ -7,12 +7,12 @@
   4.  此页面仅提供答案的链接，答案全部存储于蓝奏云网盘上，您需要下载他们才可查看。不支持在线预览。
 
 2020级寒假作业速通计划
-### 查看[【语文】](https://www.baidu.com/)学科相关
-### 查看[【数学】](https://www.baidu.com/)学科相关
-### 查看[【英语】](https://www.baidu.com/)学科相关
-### 查看[【物理】](https://www.baidu.com/)学科相关
-### 查看[【化学】](https://www.baidu.com/)学科相关
-### 查看[【地理】](https://www.baidu.com/)学科相关
+### 查看[【语文】](https://endertd.lanzouj.com/b01d4c0pg)学科相关（密码:9rh9）
+### 查看[【数学】](https://endertd.lanzouj.com/b01d4c0vc)学科相关（密码:4fng）
+### 查看[【英语】](https://endertd.lanzouj.com/b01d4c12j)学科相关（密码:5tj7）
+### 查看[【物理】](https://endertd.lanzouj.com/b01d4c15c)学科相关（密码:1d3x）
+### 查看[【化学】](https://endertd.lanzouj.com/b01d4c19g)学科相关（密码:6g50）
+### 查看[【地理】](https://endertd.lanzouj.com/b01d4c1bi)学科相关（密码:62ij）
 ### 查看[【政治】](https://www.baidu.com/)学科相关(暂无)
 ### 查看[【历史】](https://www.baidu.com/)学科相关(暂无)
 ### 查看[【生物】](https://www.baidu.com/)学科相关(暂无)
