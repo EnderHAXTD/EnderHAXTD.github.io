@@ -25,6 +25,6 @@
 4. [在线函数及三维/立体空间几何绘图](https://www.geogebra.org/)<-点击访问
 5. [小破站](https://www.bilibili.com/)<-点击访问
 
-![avatar](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0503%2F06af7080j00qsidbt000tc000kq00nqc.jpg&thumbnail=650x2147483647&quality=80&type=jpg)
+![avatar](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fa24077aa6a9ed995fff2b6e89928e9e96612851c2a50-SAFiIz_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1645277736&t=33acf494a0db1c957efbc97b327c880d)
 
 Copyright EnderHAXTD 2021-2022, Powered by Github, Engined by Markdown.All rights reserved.
